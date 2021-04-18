@@ -4,6 +4,7 @@
 - 📫 How to reach me: ericckzhou@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ericckzhou/
 - Resume: https://drive.google.com/file/d/13aufg3QeccE3Q_xxWsn_5VuQvdBwdSz5/view?usp=sharing
+  - Last updated: Apr 18, 2021
 
 <!---
 ericckzhou/ericckzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
