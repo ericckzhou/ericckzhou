@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: ericckzhou@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ericckzhou/
-- Resume: https://drive.google.com/file/d/1JCXHrVa4hbknpEqGy72XV3zA4UYMtPwY/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1kbRNtHofuZWPhVevXWBkp29qmq90NNV2/view?usp=sharing
   - Last updated: Apr 20, 2021
 
 Course Web-App and Space-Obstacle Assembly Game coming soon!
