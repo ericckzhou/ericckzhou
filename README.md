@@ -6,7 +6,7 @@
 - Resume: https://drive.google.com/file/d/1kbRNtHofuZWPhVevXWBkp29qmq90NNV2/view?usp=sharing
   - Last updated: Apr 20, 2021
 
-Course Web-App and Space-Obstacle Assembly Game coming soon!
+Course Web-App and Space-Obstacle Assembly Game now available!
 <!---
 ericckzhou/ericckzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
