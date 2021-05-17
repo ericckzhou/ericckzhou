@@ -9,8 +9,7 @@
 Website: https://ericckzhou.tech
 
 Note: If my website is down, it is still available under the repository: https://github.com/ericckzhou/ericckzhou.github.io
-
-Sorry for any inconvenience caused!
+- Sorry for any inconvenience caused!
 
 Other Updates:
 
