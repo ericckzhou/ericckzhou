@@ -11,8 +11,9 @@ Website: https://ericckzhou.tech
 Note: If my website is down, it is still available under the repository: https://github.com/ericckzhou/ericckzhou.github.io
 - Sorry for any inconvenience caused!
 
-Other Updates:
 
+
+Other Updates:
 - Course Web-App and Space-Obstacle Assembly Game now available!
 <!---
 ericckzhou/ericckzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
