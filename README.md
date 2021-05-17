@@ -12,7 +12,9 @@ Note: If my website is down, it is still available under the repository: https:/
 
 Sorry for any inconvenience caused!
 
-Course Web-App and Space-Obstacle Assembly Game now available!
+Other Updates:
+
+- Course Web-App and Space-Obstacle Assembly Game now available!
 <!---
 ericckzhou/ericckzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
