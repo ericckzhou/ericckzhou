@@ -7,7 +7,8 @@
   - Last updated: May 10, 2021
 
 Website: https://ericckzhou.tech
-# Note: If my website is down, it is still available under the repository: https://github.com/ericckzhou/ericckzhou.github.io
+
+Note: If my website is down, it is still available under the repository: https://github.com/ericckzhou/ericckzhou.github.io
 
 Course Web-App and Space-Obstacle Assembly Game now available!
 <!---
