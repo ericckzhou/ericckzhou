@@ -15,6 +15,7 @@ Note: If my website is down, it is still available under the repository: https:/
 
 Other Updates:
 - Course Web-App and Space-Obstacle Assembly Game now available!
+- Will not be able to public my Handwritten Number Recognizer.
 <!---
 ericckzhou/ericckzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
