@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: ericckzhou@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ericckzhou/
-- Resume: https://drive.google.com/file/d/10OP7eGIu1LFTup_E5iT5fTbHh3QmiXpf/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1tw-EFeLB6Xb2BZkm_HN9bOWMhueDrw9-/view?usp=sharing
   - Last updated: May 27, 2021
 
 Website: https://ericckzhou.tech
