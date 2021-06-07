@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric Zhou
-- 👀 I’m interested in Machine Learning and Software Development.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning Web Development and Software Development
 - 📫 How to reach me: ericckzhou@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ericckzhou/
 - Resume: https://drive.google.com/file/d/1tw-EFeLB6Xb2BZkm_HN9bOWMhueDrw9-/view?usp=sharing
