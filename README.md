@@ -6,7 +6,7 @@
 - Resume: https://drive.google.com/file/d/1YUMwaYYM5_vTB1I9jgaF-wkp89p_hKNW/view?usp=sharing
   - Last updated: June 10th, 2021
 
-Website: https://ericckzhou.tech
+Website: https://ericckzhou.github.io
 
 Note: If my website is down, it is still available under the repository: https://github.com/ericckzhou/ericckzhou.github.io
 
